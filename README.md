@@ -1,6 +1,7 @@
 - 👋 Hi, I’@-rohan-sharma--
 - 👀 I’m interested in ...Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning ...Python
+- 🤪 Very crazy about ML 
+- 🌱 I’m currently learning ...Machine Learning
 
 
 <!---
